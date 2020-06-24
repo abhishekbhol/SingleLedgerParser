@@ -1,0 +1,8 @@
+Bank,Credit,100
+Salary,Debit,200
+Credit Card,Debit,200
+Bank,Credit,500
+Salary,Debit,100
+Bank,Debit,100
+Debit Card,Credit,500
+Debit Card,Debit,250
